@@ -14,11 +14,10 @@ This is a program that emulates a network of docking stations, bikes and infrast
 Coming soon.
 
 ## Tech/framework used ##
-Ruby, Agile (User Stories, Domain Modelling).
+Ruby, Agile
 
-https://docs.google.com/document/d/1eOX5bfoGYsyF_2RAut4zNTt8k0CmF9mdgzkjDcdAB5g/edit
-
-https://docs.google.com/presentation/d/1bHTJhWVgz34Vt47gX1efiHuD0xdZ0BniuGJ2PCqVR60/edit#slide=id.p
+User Stories: https://docs.google.com/document/d/1eOX5bfoGYsyF_2RAut4zNTt8k0CmF9mdgzkjDcdAB5g/edit
+Domain Model: https://docs.google.com/presentation/d/1bHTJhWVgz34Vt47gX1efiHuD0xdZ0BniuGJ2PCqVR60/edit#slide=id.p
 
 ## Code Example ##
 Coming soon.
